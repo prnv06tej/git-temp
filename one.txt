@@ -1,2 +1,4 @@
 New file  this is first file
 some more content added to check push
+checking if upstream set by first time doing 
+git push -u origin main
